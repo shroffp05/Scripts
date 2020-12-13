@@ -1,2 +1,1 @@
-# Project File
-Codes for different projects
+Repository holding codes for different projects during my time in Schoold
